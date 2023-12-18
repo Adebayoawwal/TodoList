@@ -29,7 +29,7 @@ function handleSubmit(){
           type="text"
           id="item" />        
       </div>
-      <button className="btn">Add</button>
+      <button className="btn">Add Todo</button>
       </form>
         <h1 className="header">Todo List</h1>
         <ul className='list'>
